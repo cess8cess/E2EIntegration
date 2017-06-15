@@ -1,7 +1,7 @@
 package testcases;
 
-import org.junit.Test;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class TC_003 {
 
